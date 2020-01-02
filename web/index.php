@@ -2,7 +2,7 @@
     $srv = $_SERVER;
 
     $cities = [
-        "Burgas" => 203017, 
+        "Burgas" => 1, 
         "Dobrich" => 86292,
         "Pleven" => 99628, 
         "Plovdiv" => 341625,
